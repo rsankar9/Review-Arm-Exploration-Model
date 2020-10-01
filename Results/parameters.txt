@@ -1,0 +1,13 @@
+{
+    "n_arms": 3,
+    "RA_size": 30,
+    "ntrials": 6000,
+    "eta_RL": 0.15,
+    "pPos": 0.0015,
+    "pDec": 0.0015,
+    "r_sigma": 0.35,
+    "noise_lim": 0.5,
+    "n_score": 154,
+    "percent_score": 0.77,
+    "strict_score": 86
+}
